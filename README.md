@@ -23,6 +23,7 @@ Step 1 - Download or clone PoisPMS master branch to a folder on your local machi
 Step 2 - Open your IDE of choice and open the files that you cloned or downloaded.
 Step 3 - Run the main method in the file named ProjectManagement.java
 You will need java JDK17 installed on your machine and make use of an IDE
+NB. This program was part of my studies and to showcase my capabilities.
 
 ## Support
 You can contact me via emial bnwills79@gmail.com
