@@ -16,11 +16,13 @@
 
 
 ## Setup and Installation
-Before you begin, make sure you have java and an IDE installed.
+Before you begin, make sure you have java and an IDE installed
+Make sure to install MySQL, database used for this project is no longer in use,
+create your database according to the PoisPMS ERD.jpg file in the main branch.
 Step 1 - Download or clone PoisPMS master branch to a folder on your local machine.
 Step 2 - Open your IDE of choice and open the files that you cloned or downloaded.
 Step 3 - Run the main method in the file named ProjectManagement.java
-You will need java installed on your machine and make use of an IDE
+You will need java JDK17 installed on your machine and make use of an IDE
 
 ## Support
 You can contact me via emial bnwills79@gmail.com
